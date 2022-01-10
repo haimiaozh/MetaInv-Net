@@ -23,7 +23,7 @@ Here is the list of libraries you need to install to execute the code:
   - scipy=1.3.1=py36h7c811a0_0
   - pytorch=1.3.1
 
-These packages can be installed via executing the code:
+These packages can be installed via executing the code, i.e.,
 
 ```
 conda install python
